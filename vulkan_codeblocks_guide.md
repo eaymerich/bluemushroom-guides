@@ -13,11 +13,11 @@ This guide is to setup a development environment for Vulkan, using MinGW-w64 as
 compiler and Code::Blocks as IDE in Windows (64-bit). These are the basic
 steps:
 
-1. [MinGW-w64 setup](#mingw-w64_setup)
-2. [Vulkan setup](#vulkan_setup)
-3. [GLFW setup](#glfw_setup) (Optional, but highly recommended)
-4. [GLM setup](#glm_setup) (Optional)
-5. [Code::Blocks setup](#code__blocks_setup)
+1. [MinGW-w64 setup](#mingw-w64-setup)
+2. [Vulkan setup](#vulkan-setup)
+3. [GLFW setup](#glfw-setup) (Optional, but highly recommended)
+4. [GLM setup](#glm-setup) (Optional)
+5. [Code::Blocks setup](#codeblocks-setup)
 
 MinGW-w64 setup
 ---------------
