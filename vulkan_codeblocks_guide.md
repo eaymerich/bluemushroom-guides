@@ -77,7 +77,7 @@ to it's surface (in order to draw into them using Vulkan).
 GLM setup
 ---------
 
-[OpenGL Mathematics (OGL)][9] is a library that implements a lot of the
+[OpenGL Mathematics (GLM)][9] is a library that implements a lot of the
 mathematics commonly used in graphics software. And because it is a header only
 library, it is easy to install.
 
